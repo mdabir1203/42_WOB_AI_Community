@@ -4,4 +4,4 @@ It's a start of the Beginning --->
 
 Index:
 
-1. Simple Neural Network [Image Classification]
+1. Simple Neural Network [Image Classification] with MNIST Fashion Database 
