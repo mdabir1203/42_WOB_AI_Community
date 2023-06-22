@@ -9,4 +9,4 @@ Index:
 
 Roadmap for AI Community:
 
-Reallife Projects based on previous ones 
+Real life Projects based on previous ones 
