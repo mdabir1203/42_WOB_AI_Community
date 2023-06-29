@@ -9,7 +9,7 @@ Index:
 3. Bachsformer - Ongoing
 4. Blue Willow Generative Image AI Integrated
    
-Roadmap for AI Community: [[ July - August ]]
+Roadmap for AI Community: [[ July - September ]]
 
 1. Work on 3 Projects based on previous Projects
 2. Share and Summarize the learning together
