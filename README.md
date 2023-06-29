@@ -1,5 +1,5 @@
 # 42_WOB_AI_Community
-<img src="https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/df2f3443-f549-480f-b079-113b0154b6fc" alt="AI_Club_Logo - V1" style="width: 500px;">
+<img src="https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/df2f3443-f549-480f-b079-113b0154b6fc" alt="AI_Club_Logo - V1" style="width: 800px;">
 
 
 It's a start of the Beginning --->
