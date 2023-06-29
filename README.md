@@ -1,4 +1,5 @@
 # 42_WOB_AI_Community
+![AI_Club_Logo-removebg-preview](https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/4827bcf7-a077-414c-bfe8-9c1fad110f88)
 
 It's a start of the Beginning --->
 
