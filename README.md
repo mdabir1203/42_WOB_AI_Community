@@ -1,5 +1,5 @@
 # 42_WOB_AI_Community
-![AI_Club_Logo - V1](https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/df2f3443-f549-480f-b079-113b0154b6fc)
+![AI_Club_Logo - V1](https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/df2f3443-f549-480f-b079-113b0154b6fc){: style="width:500px;height:500px;"}
 
 It's a start of the Beginning --->
 
