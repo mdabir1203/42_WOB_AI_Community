@@ -16,3 +16,6 @@ It's a start of the Beginning --->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Read the Roadmap file
+
+
+# If you have read or got inspired from this somehow please feel free to contact us through slack / email .  Don't forget to put a star 
