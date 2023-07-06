@@ -6,10 +6,11 @@ It's a start of the Beginning --->
 
 ## Index:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 1. Simple Neural Network [Image Classification] with MNIST Fashion Database 
-### 2. AI Hack - 42 Berlin Bear AI (Incomplete) - Need Help with 3D Modelling 
-### 3. Bachsformer - Ongoing
-### 4. Blue Willow Generative Image AI Integrated
+### 1. Workshop on Pytorch vs Tensorflow comparison  
+### 2. Simple Neural Network [Image Classification] with MNIST Fashion Database 
+### 3. AI Hack - 42 Berlin Bear AI (Incomplete) - Need Help with 3D Modelling 
+### 4. Bachsformer - Ongoing
+### 5. Blue Willow Generative Image AI Integrated
    
 ## Roadmap for AI Community: [[ July - September ]]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
