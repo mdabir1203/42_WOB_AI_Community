@@ -1,5 +1,5 @@
 
-# JUlY - AUGUST ROADMAP 2023
+# JULY - AUGUST ROADMAP 2023
 
 
 ### 1. Work on 3 Projects based on previous Projects
