@@ -6,7 +6,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ ]  1. Workshop on Pytorch vs Tensorflow comparison
 
-[ ]  2. Simple Neural Network [Image Classification] with MNIST Fashion Database
+[X]  2. Simple Neural Network [Image Classification] with MNIST Fashion Database -> Next change the Database
 
 [ ]  3. AI Hack - 42 Berlin Bear AI (Incomplete) - Need Help with 3D Modelling 
 
