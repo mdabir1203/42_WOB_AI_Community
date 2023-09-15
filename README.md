@@ -4,10 +4,14 @@
 
 ## Index: Updated ( 15 Sept)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ ]  1. Workshop on Pytorch vs Tensorflow comparison  
+[ ]  1. Workshop on Pytorch vs Tensorflow comparison
+
 [ ]  2. Simple Neural Network [Image Classification] with MNIST Fashion Database
+
 [ ]  3. AI Hack - 42 Berlin Bear AI (Incomplete) - Need Help with 3D Modelling 
+
 [ ]  4. AI Animation -> 42 Wolfsburg theme
+
 [x]  5. Blue Willow Generative Image AI Integrated
    
 ## Roadmap for AI Community: [[ July - September ]]
