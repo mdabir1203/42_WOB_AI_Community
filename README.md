@@ -7,12 +7,14 @@
 [x]  1. Workshop on Pytorch vs Tensorflow comparison
 
 [X]  2. Simple Neural Network [Image Classification] with MNIST Fashion Database -> Next change the Database
+         - Benchmarking in various programming language 
 
 [ ]  3. AI Hack - 42 Berlin Bear AI (Incomplete) - Need Help with 3D Modelling 
 
 [ ]  4. AI Animation -> 42 Wolfsburg theme (Ongoing)
 
 [x]  5. Blue Willow Generative Image AI Integrated
+
    
 ## Roadmap for AI Community: [[October - December ]]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
