@@ -1,25 +1,29 @@
 # 42_WOB_AI_Community
 <img src="https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/df2f3443-f549-480f-b079-113b0154b6fc" alt="AI_Club_Logo - V1" style="width: 800px;">
 
+Index: Updated (October 09, 2023)
 
-## Index: Updated ( 09 October )
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[x]  1. Workshop on Pytorch vs Tensorflow comparison
+Current Projects:
 
-[X]  2. Simple Neural Network [Image Classification] with MNIST Fashion Database -> Next change the Database
-         - Benchmarking in various programming language 
+1. Pytorch vs Tensorflow Comparison Workshop
 
-[ ]  3. AI Hack - 42 Berlin Bear AI (Incomplete) - Need Help with 3D Modelling 
+2. Simple Neural Network [Image Classification] with MNIST Fashion Database
 
-[ ]  4. AI Animation -> 42 Wolfsburg theme (Ongoing)
+    Transition to a different database
+    Benchmarking in various programming languages
 
-[x]  5. Blue Willow Generative Image AI Integrated
+3. AI Hack - 42 Berlin Bear AI (Incomplete)
 
-   
-## Roadmap for AI Community: [[October - December ]]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Seeking assistance with 3D modeling
 
-Read the Roadmap file
+4. AI Animation - 42 Wolfsburg Theme (Ongoing)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- If you have read or got inspired from this somehow please feel free to contact us through slack / email .  Don't forget to put a star 
+5. Blue Willow Generative Image AI
+
+Roadmap for AI Community: October - December
+
+Please refer to the Roadmap file for detailed information.
+
+Connect with Us:
+
+If you've found our work inspiring or have any questions, feel free to reach out via Slack or email. Don't forget to star our repository!
