@@ -12,7 +12,7 @@
 
 #### 2. Simple Neural Network [Image Classification] with MNIST Fashion Database
 
-- Transition to a different database
+- Testing with different datasets
 - Benchmarking in various programming languages
 
 #### 3. AI Hack - 42 Berlin Bear AI (Incomplete)
@@ -21,7 +21,8 @@
 
 #### 4. AI Animation - 42 Wolfsburg Theme (Ongoing)
 
-#### 5. Blue Willow Generative Image AI
+#### 5. NN in Rust - A joint collaboration with 42 Berlin
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
