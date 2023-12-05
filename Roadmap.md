@@ -3,7 +3,7 @@
 ## Goals:
 - **Promote Creativity**
 - Explore **Generative AI Tools**
-
+- Make People skilled for Workplaces
 ## Timeline:
 
 ### Months 1-2:
