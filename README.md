@@ -20,7 +20,7 @@
 
 - Seeking assistance with 3D modeling
 
-#### 4. AI Animation - 42 Wolfsburg Theme (Ongoing)
+#### 4. [AI Animation - 42 Wolfsburg Theme (Ongoing)](https://www.canva.com/design/DAFzyGf3-NU/IlkpAPQcguAb-OLKva6XHg/edit?utm_content=DAFzyGf3-NU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 5. [NN in Rust - A joint collaboration with 42 Berlin](https://github.com/mdabir1203/42_WOB_AI_Community/tree/main/RustMusic/src)
 
