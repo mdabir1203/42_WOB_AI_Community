@@ -1,0 +1,12 @@
+[package]
+name = "RustyMusic"
+version = "0.1.0"
+authors = ["uknowWho <md.abir1203@gmail.com>"]
+edition = "2021"
+license = "MIT"
+
+[lib]
+name = "tch"
+
+[dependencies]
+tch = "0.14.0"
