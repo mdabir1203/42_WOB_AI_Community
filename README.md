@@ -35,4 +35,4 @@ Please refer to the Roadmap file for detailed information.
 
 ### Connect with Us:
 
-If you've found our work inspiring or have any questions, feel free to reach out via Slack or email. Don't forget to star our repository!
+If you've found our work inspiring or have any questions, feel free to reach out via Slack (mabbas / jsteinka ) or email **(md.abir1203@gmail.com)**. Don't forget to star our repository!
