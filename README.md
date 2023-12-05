@@ -11,7 +11,7 @@
 
 #### 1. Pytorch vs Tensorflow Comparison Workshop
 
-#### 2. Simple Neural Network [Image Classification] with MNIST Fashion Database
+[#### 2. Simple Neural Network [Image Classification] with MNIST Fashion Database](https://github.com/mdabir1203/42_WOB_AI_Community/blob/main/SimpleNeuralNetwork(ImageClassification)_Pytorch.ipynb)
 
 - Testing with different datasets
 - Benchmarking in various programming languages
