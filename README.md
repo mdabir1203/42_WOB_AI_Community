@@ -7,23 +7,21 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Current Projects:
+### Projects Done :
 
-#### 1. Pytorch vs Tensorflow Comparison Workshop
+#### 1.[ Pytorch vs Tensorflow Comparison Workshop](https://github.com/mdabir1203/42_WOB_AI_Community/blob/main/Workshop_%20Tensorflow%20-%20Pytorch%20Comparison.pdf)
 
-[#### 2. Simple Neural Network [Image Classification] with MNIST Fashion Database](https://github.com/mdabir1203/42_WOB_AI_Community/blob/main/SimpleNeuralNetwork(ImageClassification)_Pytorch.ipynb)
+#### 2. [Simple Neural Network [Image Classification] with MNIST Fashion Database](https://github.com/mdabir1203/42_WOB_AI_Community/blob/main/SimpleNeuralNetwork(ImageClassification)_Pytorch.ipynb)
 
-- Testing with different datasets
-- Benchmarking in various programming languages
-
-#### 3. AI Hack - 42 Berlin Bear AI (Incomplete)
-
-- Seeking assistance with 3D modeling
+    - Testing with different datasets
+    - Benchmarking in various programming languages
 
 #### 4. [AI Animation - 42 Wolfsburg Theme (Ongoing)](https://www.canva.com/design/DAFzyGf3-NU/IlkpAPQcguAb-OLKva6XHg/edit?utm_content=DAFzyGf3-NU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 5. [NN in Rust - A joint collaboration with 42 Berlin](https://github.com/mdabir1203/42_WOB_AI_Community/tree/main/RustMusic/src)
 
+#### 6. AI Hack - 42 Berlin Bear AI (Incomplete)
+      - Seeking assistance with 3D modeling
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
