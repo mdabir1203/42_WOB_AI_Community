@@ -22,7 +22,7 @@
 
 #### 4. AI Animation - 42 Wolfsburg Theme (Ongoing)
 
-#### 5. NN in Rust - A joint collaboration with 42 Berlin
+#### 5. [NN in Rust - A joint collaboration with 42 Berlin](https://github.com/mdabir1203/42_WOB_AI_Community/tree/main/RustMusic/src)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
