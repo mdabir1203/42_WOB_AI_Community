@@ -1,6 +1,7 @@
 # 42_WOB_AI_Community
 
-<img src="https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/df2f3443-f549-480f-b079-113b0154b6fc" alt="AI_Club_Logo - V1" style="width: 800px;">
+![image](https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/f48dbe32-e8fe-4887-b6bf-7050ef4fd04d)
+
 
 ## Index: Updated (October 09, 2023)
 
