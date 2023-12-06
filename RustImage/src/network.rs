@@ -12,6 +12,11 @@ pub struct StyleTransferNet {
     fc1: nn::Linear,
     fc2: nn::Linear,
 
+//
+//It defines the necessary CNN and dense layers
+//Layers are stacked appropriately, with outputs from one feeding into the next
+//These layers are then assigned as fields in the StyleTransferNet module
+
 
 impl StyleTransferNet {
     pub fn new(vs: &nn::Path) -> StyleTransferNet {
@@ -30,6 +35,9 @@ impl StyleTransferNet {
     }
 }
 
+// multiple CNN layers to hierarchically learn spatial features, 
+// max pooling for some translation invariance,
+// flattening and adding fully connected layers at the end for the classification.
 
 impl ModuleT for StyleTransferNet {
     fn forward_t(&self, xs: &Tensor, _train: bool) -> Tensor {
