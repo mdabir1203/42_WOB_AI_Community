@@ -1,28 +1,27 @@
 # 42_WOB_AI_Community
 
-<img src="https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/df2f3443-f549-480f-b079-113b0154b6fc" alt="AI_Club_Logo - V1" style="width: 800px;">
+![image](https://github.com/mdabir1203/42_WOB_AI_Community/assets/66947064/f48dbe32-e8fe-4887-b6bf-7050ef4fd04d)
+
 
 ## Index: Updated (October 09, 2023)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Current Projects:
+### Projects Done :
 
-#### 1. Pytorch vs Tensorflow Comparison Workshop
+#### 1.[ Pytorch vs Tensorflow Comparison Workshop](https://github.com/mdabir1203/42_WOB_AI_Community/blob/main/Workshop_%20Tensorflow%20-%20Pytorch%20Comparison.pdf)
 
-#### 2. Simple Neural Network [Image Classification] with MNIST Fashion Database
+#### 2. [Simple Neural Network [Image Classification] with MNIST Fashion Database](https://github.com/mdabir1203/42_WOB_AI_Community/blob/main/SimpleNeuralNetwork(ImageClassification)_Pytorch.ipynb)
 
-- Testing with different datasets
-- Benchmarking in various programming languages
+    - Testing with different datasets
+    - Benchmarking in various programming languages
 
-#### 3. AI Hack - 42 Berlin Bear AI (Incomplete)
+#### 4. [AI Animation - 42 Wolfsburg Theme (Ongoing)](https://www.canva.com/design/DAFzyGf3-NU/IlkpAPQcguAb-OLKva6XHg/edit?utm_content=DAFzyGf3-NU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- Seeking assistance with 3D modeling
+#### 5. [NN in Rust - A joint collaboration with 42 Berlin](https://github.com/mdabir1203/42_WOB_AI_Community/tree/main/RustMusic/src)
 
-#### 4. AI Animation - 42 Wolfsburg Theme (Ongoing)
-
-#### 5. NN in Rust - A joint collaboration with 42 Berlin
-
+#### 6. AI Hack - 42 Berlin Bear AI (Incomplete)
+      - Seeking assistance with 3D modeling
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,4 +33,4 @@ Please refer to the Roadmap file for detailed information.
 
 ### Connect with Us:
 
-If you've found our work inspiring or have any questions, feel free to reach out via Slack or email. Don't forget to star our repository!
+If you've found our work inspiring or have any questions, feel free to reach out via Slack (mabbas / jsteinka ) or email **(md.abir1203@gmail.com)**. Don't forget to star our repository!
