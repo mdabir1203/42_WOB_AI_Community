@@ -20,6 +20,8 @@
 
 #### 5. [NN in Rust - A joint collaboration with 42 Berlin](https://github.com/mdabir1203/42_WOB_AI_Community/tree/main/RustImage)
 
+#### 6. [CHAT-I-NETTE](https://github.com/BlorangeXYZ/Chat-i-nette) 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Roadmap for AI Community: October - December
