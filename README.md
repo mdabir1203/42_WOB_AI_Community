@@ -20,9 +20,6 @@
 
 #### 5. [NN in Rust - A joint collaboration with 42 Berlin](https://github.com/mdabir1203/42_WOB_AI_Community/tree/main/RustImage)
 
-#### 6. AI Hack - 42 Berlin Bear AI (Incomplete)
-      - Seeking assistance with 3D modeling
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Roadmap for AI Community: October - December
