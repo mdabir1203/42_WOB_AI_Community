@@ -16,7 +16,7 @@
     - Testing with different datasets
     - Benchmarking in various programming languages
 
-#### 4. [AI Animation - 42 Wolfsburg Theme (Ongoing)](https://www.canva.com/design/DAFzyGf3-NU/IlkpAPQcguAb-OLKva6XHg/edit?utm_content=DAFzyGf3-NU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+#### 4. [AI Animation - 42 Wolfsburg Theme (Ongoing)](https://www.canva.com/design/DAFzyGf3-NU/IlkpAPQcguAb-OLKva6XHg/edit?utm_content=DAFzyGf3-NU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 #### 5. [NN in Rust - A joint collaboration with 42 Berlin](https://github.com/mdabir1203/42_WOB_AI_Community/tree/main/RustImage)
 
@@ -24,9 +24,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Roadmap for AI Community: October - December
+## Roadmap for AI Community: OJanuary - March 
 
-Please refer to the Roadmap file for detailed information.
+- Currently everything is paused due to Personal reasons. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
