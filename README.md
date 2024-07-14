@@ -24,7 +24,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Roadmap for AI Community: January - March 
+## Roadmap for AI Community: June - December 
 
 - Currently transitioning to new people to take over. 
 
